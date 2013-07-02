@@ -2,7 +2,7 @@
 
 
 A Ruby Gem to send notifications via
-[NSDistributedNotificationCenter](NSDistributedNotificationCenter)
+[NSDistributedNotificationCenter](https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSDistributedNotificationCenter_Class/Reference/Reference.html)
 
 The FB in FBDistributedNotification stands for Fernando Barajas not
 Facebook.
