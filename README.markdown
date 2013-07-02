@@ -12,8 +12,7 @@ Facebook.
     require 'FBDistributedNotification'
     
     notification = FBDistributedNotification.new
-    notification.postNotificationName("RailsMailPreview.email", :object
-=> m.encoded.to_lf)
+    notification.postNotificationName("RailsMailPreview.email", :object => m.encoded.to_lf)
 
 ### What is it used for?
 It's used to send notification of any kind. It's currently only being
